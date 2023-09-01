@@ -1,9 +1,9 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
-6. Number
+1. James
+2. stupid
+3. faraway
+4. black
+5. May
+6. 7
 7. Noun (Plural)
 8. Noun (Plural)
 9. Noun
