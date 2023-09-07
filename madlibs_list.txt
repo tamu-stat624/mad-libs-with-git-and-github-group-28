@@ -1,14 +1,14 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
-6. Number
-7. Baby Yodas
-8. thousands
-9. Chewbaccas
-10. Jedi temple
-11. blue milk
+1. James
+2. stupid
+3. faraway
+4. black
+5. May
+6. 7
+7. Noun (Plural)
+8. Noun (Plural)
+9. Noun
+10. Room Name
+11. Liquid
 12. Adjective
 13. Material
 14. Activity
